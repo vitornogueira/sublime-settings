@@ -9,6 +9,7 @@
 - BracketHighLighter
 - Color HighLighter
 - ColorPicker
+- DockBlockr
 - **Emmet**
 - **Fetch**
 - Format SQL
